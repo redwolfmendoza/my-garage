@@ -15,19 +15,12 @@ wp-cli.local.yml
 
 wp-content/advanced-cache.php
 wp-content/ai1wm-backups/
-wp-content/backups/
-wp-content/backup-db/
-wp-content/backupwordpress-*/
-wp-content/managewp/backups/
 wp-content/cache/
 wp-content/languages/
 wp-content/uploads/
-wp-content/plugins/wp-security-audit-log-premium/sdk/freemius/assets/img/
 wp-content/plugins/all-in-one-wp-migration/storage/
 wp-content/blogs.dir/
 wp-content/upgrade/
-wp-content/updraft/
-wp-content/backup-db/
 wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
 
@@ -127,7 +120,6 @@ Icon?
 ########
 
 .sass-cache
-wp-content/themes/mpaa/.sass-cache
 
 
 #########
@@ -138,9 +130,4 @@ Gruntfile.js
 package.json
 grunt-config.json
 grunt-build.js
-wp-content/themes/mpaa/Gruntfile.js
-wp-content/themes/mpaa/package.json
-wp-content/themes/mpaa/grunt-config.json
-wp-content/themes/mpaa/grunt-build.js
-wp-content/themes/mpaa/grunt-workspace
 wp-content/themes/mpaa/node_modules
